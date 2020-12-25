@@ -31,6 +31,7 @@ grokbase.com
 helpmedb.com
 how-tosolve.com
 howtobuildsoftware.com
+iditect.com
 iswwwup.com
 jqueryscript.net
 levenshteinanswer.com
