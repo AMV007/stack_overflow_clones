@@ -1,9 +1,9 @@
 900913.ru
-Arrayshift.com
-ASKBOT.com
-Coordino.com
-Question2Answer.com
-OSQA.com
+arrayshift.com
+askbot.com
+coordino.com
+question2answer.com
+osqa.com
 a-scrip.org
 acnenomor.com
 allaskme.com
