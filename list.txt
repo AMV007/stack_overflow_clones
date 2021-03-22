@@ -45,6 +45,7 @@ osqa.com
 osqa.net
 overcoder.net
 phpancake.com
+qastack.ru
 qenabled.com
 question-it.com
 question2answer.com
