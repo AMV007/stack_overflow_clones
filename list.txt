@@ -43,6 +43,7 @@ jqueryscript.net
 levenshteinanswer.com
 lifesaver.codes
 meta.osqa.net
+newbedev.com
 newtips.co
 ohandroid.com
 openoverflow.com
