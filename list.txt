@@ -53,6 +53,7 @@ osqa.com
 osqa.net
 overcoder.net
 phpancake.com
+pretagteam.com
 proubuntu.ru
 qastack.ru
 qathai.com
