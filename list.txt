@@ -4,6 +4,7 @@ acnenomor.com
 allaskme.com
 android.bigresource.com
 androiddev.orkitra.com
+answer-id.com
 answerhub.com
 arrayshift.com
 ask-coder.com
@@ -30,6 +31,7 @@ efreedom.net
 exasked.com
 expertland.net
 gadgetsytecnologia.com
+generacodice.com
 goobbe.com
 grokbase.com
 helpmedb.com
@@ -55,13 +57,18 @@ osqa.net
 overcoder.net
 phpancake.com
 pretagteam.com
+progi.pro
 proubuntu.ru
+py4u.net
+qastack.com.de
+qastack.fr
 qastack.ru
 qathai.com
 qenabled.com
 quares.ru
 question-it.com
 question2answer.com
+questu.ru
 risposta.org
 rootbuzz.com
 seeques.com
@@ -70,7 +77,10 @@ sn-gate.com
 soclone.com
 solutionscore.com
 solveseek.com
+spec-zone.ru
+sprosi.pro
 stackoverflow.dluat.com
+stackoverflow.editcode.net
 stackoverflow.hex1.ru
 stackoverflow.xyz
 stackoverrun.com
@@ -82,3 +92,4 @@ tipsforall.xyz
 w3facility.org
 wenda.io
 wikidevs.com
+xiu2.net
