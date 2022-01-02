@@ -7,10 +7,10 @@ androiddev.orkitra.com
 answerhub.com
 arrayshift.com
 ask-coder.com
+ask-ubuntu.ru
 ask.webatall.com
 askbot.com
 askto.net
-ask-ubuntu.ru
 bhyuu.com
 bighow.net
 bountysource.com
@@ -36,10 +36,11 @@ helpmedb.com
 how-tosolve.com
 howtobuildsoftware.com
 iditect.com
+issueexplorer.com
 iswwwup.com
+it-swarm-es.com
 itectec.com
 ittone.ma
-it-swarm-es.com
 javaer101.com
 jqueryscript.net
 levenshteinanswer.com
@@ -81,5 +82,3 @@ tipsforall.xyz
 w3facility.org
 wenda.io
 wikidevs.com
-issueexplorer.com
-pretagteam.com
